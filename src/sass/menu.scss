@@ -1,0 +1,22 @@
+.menu-container {
+    background-color: #000;
+    ul{
+        list-style:none;
+        display: inline-block!important;
+
+        li{
+            display: inline-block;
+            padding: 5px 5px;
+            cursor:pointer;
+        }
+        li:hover{
+            background-color:#beecea;
+        }
+        li.active{
+            color:#fff;
+            background-color:#41c7c2;
+        }
+    }
+
+}
+   
