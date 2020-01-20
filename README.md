@@ -18,11 +18,14 @@ Install SASS
 6) npm i node-sass --save
 7) npm i css-loader style-loader sass-loader --save-dev
 
+
 Install React-router
 8) npm i react-router-dom --save
+
 
 Install Redux and thunk and logger and axios
 9) npm i react-redux redux redux-thunk axios
 10) npm i redux-logger --save-dev
 
 
+dummy APIs: http://dummy.restapiexample.com/
